@@ -100,3 +100,6 @@ Además hay nuevos formatos de reality show, como es el caso de gran hermano, qu
 
 ## Javiera Trinidad Maldonado
 Consideramos que es relevante analizar e investigar el porqué ha cambiado la forma de recibir la información y cómo afecta el tipo el cambio del contenido en lo que realmente estamos acostumbrados a ver cómo el Reality tradicional. Los efectos frente a el tipo de eliminación de GH. Comparado con los tradicionales Reality ha generado una atmósfera radical y polarizada de los televidentes. Por lo que pareciera clara la ganadora o ganador del programa , debido al extremo fanatismo de un pequeño grupo, espantando a otras posibles audiencias que quieran ver y apoyar a otros posibles candidatos a ganadores. Comparado con otros realitys en los cuales no sucedía esta “espiral del silencio” de manera tan masiva y notoria porque existían competencias dentro del realitys y votaciones de los propios participantes que moldeaban las eliminaciones. esta vez depende mucho más del público y por lo tanto, hace mucho más obvio el resultado.
+
+## Presentación 
+file:///C:/Users/Gabriela/Downloads/presentacion%20(1).pdf 
