@@ -20,7 +20,7 @@ Los realities fueron en Chile un fenómeno por más de 15 años y como grupo bus
 ## Hipótesis: ¿Qué se quiere demostrar o revelar?
 Queremos demostrar la diferencia de los reality tradicionales con el nuevo formato de reality y como este ha afectado o beneficiado a los televidentes por las RRSS.
 
-###ACTUALIZACIÓN 
+### ACTUALIZACIÓN HIPÓTESIS 
 Los chilenos prefieren el formato de reality chileno tradicional a los nuevos realitys como Gran Hermano
 
 ## Antecedentes:
