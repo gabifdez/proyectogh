@@ -1,5 +1,5 @@
 ## Tareas
-
+## *La hipotesis fue reformulada
 # Entrega 1: Propuesta de proyecto y datos a trabajar
 Trabajo Aroca - Maldonado - Jaque - Fernández 
 
@@ -19,6 +19,8 @@ Los realities fueron en Chile un fenómeno por más de 15 años y como grupo bus
 
 ## Hipótesis: ¿Qué se quiere demostrar o revelar?
 Queremos demostrar la diferencia de los reality tradicionales con el nuevo formato de reality y como este ha afectado o beneficiado a los televidentes por las RRSS.
+ACTUALIZACIÓN 
+Los chilenos prefieren el formato de reality chileno tradicional a los nuevos realitys como Gran Hermano
 
 ## Antecedentes:
 ¿Qué tipos de datos investigamos?
