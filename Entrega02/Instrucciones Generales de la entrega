@@ -1,0 +1,123 @@
+
+# Entrega 2: Preparar y limpiar los datos
+
+## Objetivos
+
+- Aplicar los conocimientos aprendidos sobre datos para trabajar las bases de datos originales seleccionadas para el proyecto semestral.
+- Realizar el proceso de limpieza de datos para prepararlos para su análisis y visualización.
+
+## Problema
+
+En este encargo debes preparar y limpiar los datos seleccionados para el proyecto semestral, esto significa que tras el proceso tendrás:
+
+- Una base de datos que no tenga errores, inconsistencias, ni datos faltantes.
+- Una base de datos que tenga las variables que necesitas para realizar tu análisis y visualización en el futuro.
+- Datos que estén listos para ser utilizados en análisis para responder preguntas y en visualizaciones para contar tu historia (o que requieren poco trabajo adicional para estar listos).
+- Una base de datos que sea fácil de entender y que no requiera de explicaciones adicionales para ser utilizada.
+- Una base de datos que es el resultado de un proceso transparente y replicable donde se mezclarán datos de distintas fuentes.
+- Una base de datos que sirva para apoyar su hipótesis y que permita responder las preguntas que se plantearon en la entrega anterior.
+- 
+## Especificaciones
+
+- Deben ocupar el mismo repositorio de equipo que ya compartieron en Github.
+- Las bases de datos trabajadas deben ser entregadas en formato csv.
+- **Cada integrante del equipo debe entregar una base de datos limpia**.
+- La entrega debe incluir un archivo README.md con una explicación de cómo se realizó el proceso de limpieza de datos. Debe incluir una explicación de cada paso, si es posible, también el código utilizado.  Algunas de las decisiones a comentar, por ejemplo, si eliminaron columnas, si cambiaron nombres, si cambiaron el formato de los datos, etc.
+- Dentro del README.md también deben incluir una lista de las fuentes de datos utilizadas y una explicación de por qué las eligieron.
+- Su README.md debe incluir también algunos ejemplos sobre preguntas que se pueden responder su base de datos limpia (3 mínimo).
+- También deben agregar un archivo Markdown extra con la Ficha técnica, donde expliquen la codificación de las dimensiones/variables de su base de datos y qué representa cada una de ellas.
+  - Característica de los datos
+  - Alcance metodológico
+  - Variables incorporadas: variable | descripción
+  - Observaciones que tengan sobre la base de datos
+- Recuerda que parte de este proceso también puede ser la fusión de distintas bases de datos. 
+- La documentación de su trabajo en este proceso es vital para poder replicar si es necesario
+- Por último, agreguen también sus bases de datos originales (sin limpiar) en el repositorio, etiquetándolas correctamente para poder reconocerlas.
+
+## Requisitos mínimos
+
+Esta entrega es de contenido complementario, pero el trabajo es **[Individual]**, pero deben trabajar en equipo para tener consistencia y coherencia entre las bases de datos limpias de cada integrante.
+
+La estructura de sus repositorios debería quedar similar a lo siguiente:
+
+```
+.
+└── Repo_Proyecto_Equipo/
+    ├── README.md (general proyecto)
+    ├── Entrega_01/
+    │   ├── README.md (video, presentación, info general entrega)
+    │   └── Otros_documentos/
+    │
+    └── Entrega_02/
+        ├── README.md (video, presentación, info general entrega)
+        │
+        ├── Apellido_Integrante_01_Nombre_database_01/
+        │   │
+        │   ├── README.md (proceso, decisiones, fuentes, Q&A ejemplo)
+        │   ├── Ficha_Técnica.md
+        │   ├── nombre_database.csv
+        │   │
+        │   ├── datos_originales/
+        │   │   ├── database_raw_01.csv
+        │   │   ├── database_raw_02.xlsx
+        │   │   └── database_raw_03.csv
+        │   │
+        │   ├── scripts/
+        │   │   ├── codigo_para_limpiar_db_1.py
+        │   │   └── codigo_para_limpiar_db_2.ipynb
+        │   │
+        │   └── otros/
+        │
+        ├── Apellido_Integrante_02_Nombre_database_02/
+        │   └── ...
+        └── Apellido_Integrante_03_Nombre_database_03/
+            └── ...
+```
+------
+
+### Elementos detallados
+
+#### A. Readme general de la Tarea 02 (video, presentación, info general entrega)
+
+#### B. Una carpeta para cada integrante del equipo 
+Debe tener su respectiva entrega de base de datos limpia junto a toda la documentación de la sección anterior. Al interior de cada carpeta de integrante de haber: 
+
+1. Un archivo README.md con la documentación del proceso de limpieza de datos
+   1. Nombre
+   2. Explicación de cómo se realizó el proceso de limpieza de datos, cada paso y decisión tomada.
+   3. Lista de las fuentes de datos utilizadas y una explicación de por qué las eligieron.
+   4. Algunos ejemplos sobre preguntas que se pueden responder su base de datos limpia (3 mínimo).
+
+2. Ficha técnica (archivo Markdown) para explicar las dimensiones
+   - Característica de los datos
+   - Alcance metodológico
+   - Variables incorporadas: variable | descripción
+   - Observaciones que tengan sobre la base de datos
+   
+3. Su nueva Base de datos limpia en formato csv
+
+4. una carpeta con las bases de datos originales
+
+5. una carpeta con los scripts utilizados para limpiar los datos
+
+6. una carpeta con otros documentos que consideren necesarios.
+
+
+## Entrega
+
+Todo el material debe ser entregado a través de un repositorio de Github. Todos los miembros del equipo deben ser colaboradores del repositorio. El link del repositorio debe ser compartido en el [foro del curso](https://github.com/FCOM-COM208/syllabus/discussions). El repositorio debe contener:
+
+- Link a video presentación (YouTube no listado), donde expongan en 3 minutos o menos los puntos más relevantes de su entrega.
+- PDF de la presentación.
+- Incluir en el README.md de la Tarea 02 el link al video y la presentación.
+- Todos los archivos que consideren relevantes para la entrega.
+- Archivo csv para cada una de las bases de datos limpias.
+- Archivo markdown de código de las dimensiones/variables de su base de datos.
+
+**Recuerden**: 
+- El día de la clase seleccionamos algunos equipos al azar para presentar ante el curso.
+- Y otros tendrán que comentar el trabajo de sus compañeros
+
+### Fecha/hora límite: jueves 28 de septiembre, 23:59 hrs.
+
+Los encargos que no cumplan con las restricciones señaladas en este enunciado tendrán la calificación míınima (1.0).
