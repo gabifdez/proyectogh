@@ -8,10 +8,10 @@ Estamos concientes de que solo analizar Instagram no es un impacto general, pero
 ## Lista de las fuentes de datos utilizadas y una explicación de por qué las eligieron.
 Se utilizó en este caso particular Instagram y se hizo de manera manual la recopilación y contabilidad, cómo mencioné anteriormente se eligió este caso porque es una buena base de comparación entre los dos formatos de realitys. Analizar las interacciones que tuvieron las previas de estos programas que en este caso tienen en común presentar a los personajes es sus RRSS.
 # Algunos ejemplos sobre preguntas que se pueden responder su base de datos limpia (3 mínimo).
-### En base a los likes de los participantes, ¿Qué programa tuvo más exito en su previa?
-### En base a los comentarios de los participantes, ¿Qué programa tuvo más exito en su previa?
 ### En el Top 5 ¿Cuántos participantes de Gran Hermano fueron exitosos?
 ### En el Top 5 ¿Cuántos participantes de Tierra Brava fueron exitosos?
-### En base al Top 5 ¿Qué programa tuvo más participantes exitosos?
 ### ¿Qué previa fue más llamativa?
 ### Basándonos en estos primeros datos ¿Cuál qué formato de reality tiene mayor exito/impacto en RRSS?
+### En base a los comentarios de los participantes, ¿Qué programa tuvo más exito en su previa?
+### En base a los likes de los participantes, ¿Qué programa tuvo más exito en su previa?
+### En base al Top 5 ¿Qué programa tuvo más participantes exitosos?
