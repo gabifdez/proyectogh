@@ -1,6 +1,12 @@
 # Ficha técnica para explicar las dimensiones
 
 ## Característica de los datos
+Son datos de tipo cuantitativos, recopilados de manera manual, originalmente teniamos dos variables "comentarios" y "likes" que más adelante fueron divididas.
 ## Alcance metodológico
+* El objetivo de esta recopilación y limpieza de datos era tener una primera impresión del impacto en RRSS entre cada reality Gran Hermano (formato nuevo) y Tierra Brava (formato tradicional), para así evaluar preferencias del público chileno y éxito de formatos.
+* Metodología: Para comenzar recopilé las reacciones (likes y comentarios) de las presentaciones de los participantes en los intagram de los Realitys actuales (Gran Hermano, formato nuevo y Tierra Brava Formato convencional/tradicional). Se recopilaron en el orden en que fueron subidos los participantes; luego se programó para limpiar en orden descendente y separar los datos entre "likes" y "comentarios", obteniéndose dos tablas independientes con datos de mayor a menor (más reacciones a menos). Finalmente se programó para limpiar y dejar un "Top 5" para cada clasificación. 
+* Limitaciones: Esta información comparativa no existía ya que es un tema nuevo, así que se logró recopilar lo que encontramos en RRSS y lo que se puede igualar entre realitys considerando que los formatos son diferentes y se cree mueven distintas audiencias. Quise comparar la primera foto de los participantes, pero al parecer (por el poco impacto) Gran Hermano decidió ocultar los likes de las iamgenes menos exitosas, y decide incorporar la videopresentación (contenido del cual pudimos recopilar interacciones y comparar con contenido afín de Tierra Brava).
 ## Variables incorporadas: variable | descripción
+Incorporé las varibles de: participantes, reality, likes, comentarios. Una de las variables más importantes fue el reality en el que participan; dado que al crear el "Top 5" se pudo analizar ¿Cuál era el reality con más posiciones en el top, como factor directo de interes en el público.
 ## Observaciones que tengan sobre la base de datos
+Como se mencionó en la pregunta anterior, se observa una evidente y primera preferencia por Tierra Brava, reality que aún no se estrena y que ya ha impactado, por lo menos en la previa a más personas que su competencia Gran Hermano. Por lo que nuestra hipotesis se ve levemente apoyada. 
