@@ -1,17 +1,22 @@
-#Top 5 por likes en las presentaciones de los participantes ;;;
+# Top 5 por likes en las presentaciones de los participantes
 
-Participantes;Reality;Likes;
-Pamela D’a;TB; 33.200 ;
-Junior Playboy;TB; 28.200 ;
-El Futuro Fuera de Orbita;TB; 21.700 ;
-La Guaren;TB; 17.900 ;
-Luis Mateucci;TB; 16.200 ;
-;;;
-;;;
-Top 5 por comentarios en las presentaciones de los participantes ;;;
-Participantes;Reality; comentarios ;
-Junior Playboy;TB; 2.448 ;
-La Guaren;TB; 2.409 ;
-Sim—n de la Costa;TB; 1.768 ;
-Fran;GH; 1.091 ;
-Luis Mateucci;TB; 978 ;
+| Participante             | Reality | Likes    | 
+| ------------------------ | ------- | -------- | 
+| Pamela Díaz              |  	TB 	 |  33.200  |	
+| Junior Playboy           |    TB   |  28.200  |       
+| El Futuro Fuera de Orbita|	  TB   |  21.700  |
+| La Guaren                |    TB 	 |  17.900  |
+| Luis Mateucci            |    TB 	 |  16.200  |
+
+
+
+# Top 5 por comentarios en las presentaciones de los participantes
+
+| Participante             | Reality | Comentarios | 
+| ------------------------ | ------- | ----------- | 
+|  Junior Playboy          |  	TB 	 |    2.448    |	
+|  La Guaren               |    TB   |    2.409    |       
+| Simon de la Costa        |	  TB   |    1.768    |
+| Fran Maira               |    GH 	 |    1.091    |
+| Luis Mateucci            |    TB 	 |      978    |
+ 
