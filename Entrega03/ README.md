@@ -22,3 +22,7 @@ Por último, la bajada o cuerpo tendrá una letra estilo san serif, para ser cla
 Elegimos solo elementos icónicos, para que acompañen nuestra estética, entre ellos se simbolizan los medios, las conversaciones que simbolizan los realitys, creemos que esto puede hacer más grata y llevadera la búsqueda por la web. 
  
 ## Prototipado: justificación de la propuesta de navegación y distribución de la información.
+Decidimos hacer la estructura de la información de manera muy inmediata y sencilla pues nuestro público objetivo busca información inmediata y no todos estarán dispuestos ya sea por ignorancia o por tiempo de ver la página completa para buscar la información. 
+El primer menú que es el realitys vs es inspirado la página de iPhone, en esta plataforma se compara ambos modelos mostrando características similares y su diferencia de manera que el lector de manera fácil puede revisar la información. Así mismo queremos hacer con los datos principales de cada reality y dado que está relacionado con nuestra hipótesis principal. 
+Luego viene una presentación al estilo de la página de Netflix, presentando los realitys que hay disponibles y su información en nuestra página. El menú es con un movimiento hacia la izquierda como se suele hacer en las páginas de películas y series como Disney Plus, Netflix, HBO Max, etc. 
+Mas adelante, aparecen personajes icónicos de algunos realitys que han destacado. Para finalmente dar con una sección de ultimas noticias. 
