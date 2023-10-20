@@ -1,4 +1,5 @@
 # README
+## Dejamos un PDF llamado documentación con toda la información que no está acá y más detallada.
 ## Link a video presentación 
 (Agregar)
 ## Link Presentación
