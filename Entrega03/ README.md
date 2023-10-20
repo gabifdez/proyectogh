@@ -1,7 +1,7 @@
 # README
 ## Dejamos un PDF llamado documentación con toda la información que no está acá y más detallada.
 ## Link a video presentación 
-(Agregar)
+https://youtu.be/08__XqHr6xU
 ## Link Presentación
 https://www.canva.com/design/DAFxwl0mnrk/PvigLdSTVpaRg-GDuMNr5g/edit
 
