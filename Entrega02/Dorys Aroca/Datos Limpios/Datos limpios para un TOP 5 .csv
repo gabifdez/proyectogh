@@ -1,16 +1,17 @@
 # Top 5 por likes en las presentaciones de los participantes
 
-Participantes,Reality,Likes,
-Pamela Diaz,TB,33.200,
-Junior Playboy,TB,28.200,
-El Futuro Fuera de Orbita,TB,21.700,
-La Guaren,TB,17.900,
-Luis Mateucci,TB,16.200,
+Participantes,Reality,Likes
+Pamela Diaz,TB,33.200
+Junior Playboy,TB,28.200
+El Futuro Fuera de Orbita,TB,21.700
+La Guaren,TB,17.900
+Luis Mateucci,TB,16.200
 
 # Top 5 por comentarios en las presentaciones de los participantes
-Participantes,Reality,comentarios,
-Junior Playboy,TB,2.448,
-La Guaren,TB,2.409,
-Simon de la Costa,TB,1.768,
-Fran,GH,1.091,
-Luis Mateucci,TB,978,
+
+Participantes,Reality,comentarios
+Junior Playboy,TB,2.448
+La Guaren,TB,2.409
+Simon de la Costa,TB,1.768
+Fran,GH,1.091
+Luis Mateucci,TB,978
