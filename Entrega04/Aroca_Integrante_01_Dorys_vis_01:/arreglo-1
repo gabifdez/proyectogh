@@ -1,8 +1,0 @@
-cd /gabifdez/proyectogh/tree/main/Entrega04/Aroca_Integrante_01_Dorys_vis_01%3A
-
-git add .
-
-git commit -m "Corregir nombres de archivos y eliminar archivos inválidos"
-
-git push origin main
-
