@@ -15,3 +15,5 @@ Se comparó la reacción de los usuarios a las presentaciones en Instagram de lo
 * El Futuro Fuera de Orbita
 
 Puedes visualizar el gráfico para ver todos los resultados. Esta comparación arroja que los participantes más populares están en el reality Tierra Brava, obteniendo 7 lugares del TOP 10 participantes de los realitys actuales. 
+
+https://colab.research.google.com/drive/1xakjWeSIWE_qdLdsdv2kTdqpR0Kg1OqB#scrollTo=ej5oCbvcvnLE
