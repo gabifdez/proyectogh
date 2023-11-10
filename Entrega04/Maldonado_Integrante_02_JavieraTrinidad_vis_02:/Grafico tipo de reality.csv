@@ -1,6 +1,6 @@
-Tipo;Cantidad;Formato
-Competencia F’sica;32;Tradicional
-Competencia Art’stica;29;Tradicional
-Citas;6;Moderno
-Competencia Gastron—mica;8;Moderno
-Convivencia;1;Moderno
+Tipo,Cantidad,Formato
+Competencia Fisica,32,Tradicional
+Competencia Artistica,29,Tradicional
+Citas,6,Moderno
+Competencia Gastronomica,8,Moderno
+Convivencia,1,Moderno
